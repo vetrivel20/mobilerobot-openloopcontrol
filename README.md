@@ -100,8 +100,6 @@ if _name_ == '_main_':
 
 MobileRobot Movement Video:
 
-The YouTube link in the image is:
-
 **[https://youtu.be/qRsL67RhfYk?si=qJ4kPmYNq98aO5Kb](https://youtu.be/qRsL67RhfYk?si=qJ4kPmYNq98aO5Kb)**
 
 
